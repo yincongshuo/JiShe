@@ -1129,3 +1129,18 @@ PythonDispatcher: registered at C:\actions-runner\_work\pytorch\pytorch\builder\
 [2025-03-26 16:12:18.253] YOLO检测完成，耗时 0.6207 秒，检测到 53 个对象
 [2025-03-26 16:12:18.351] 显示YOLO检测结果图像
 [2025-03-26 16:12:22.643] 检测信息已保存到 C:/Users/86151/Desktop/计设1.0/test_images/51.pdf
+[2025-03-26 17:18:14.034] 未选择图片
+[2025-03-26 17:19:42.329] 加载了图片: C:/Users/86151/Desktop/计设1.0/test_images/IMG20241018153211.jpg
+[2025-03-26 17:19:42.330] 请点击相应的检测按钮执行检测
+[2025-03-26 17:19:43.760] 开始执行YOLO检测...
+[2025-03-26 17:19:43.776] 检测过程中出现错误: yolo检测出错: No module named 'yolov5.detect'
+Traceback (most recent call last):
+  File "C:\Users\86151\Desktop\计设1.0\mainwindows.py", line 129, in run
+    from yolov5.detect import yolo_detect
+ModuleNotFoundError: No module named 'yolov5.detect'
+
+[2025-03-26 17:26:12.238] 加载了图片: C:/Users/86151/Desktop/计设1.0/test_images/IMG20241018153211.jpg
+[2025-03-26 17:26:12.239] 请点击相应的检测按钮执行检测
+[2025-03-26 17:26:12.956] 开始执行YOLO检测...
+[2025-03-26 17:26:16.686] YOLO检测完成，耗时 0.6763 秒，检测到 60 个对象
+[2025-03-26 17:26:16.789] 显示YOLO检测结果图像
