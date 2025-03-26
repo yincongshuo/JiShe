@@ -1158,3 +1158,4 @@ ModuleNotFoundError: No module named 'yolov5.detect'
 [2025-03-26 22:25:44.303] 检测信息已保存到 C:/Users/86151/Desktop/计设1.0/test_images/1111.pdf
 [2025-03-26 22:39:54.144] 加载了图片: C:/Users/86151/Desktop/计设1.0/test_images/IMG20241018153211.jpg
 [2025-03-26 22:39:54.146] 请点击相应的检测按钮执行检测
+[2025-03-26 22:51:01.206] 未选择图片
