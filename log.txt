@@ -1,0 +1,1073 @@
+[2024-08-29 20:24:00.171] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1774.JPG
+[2024-08-29 20:24:00.172] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-29 20:24:02.050] Î´Ñ¡ÔñÍ¼Æ¬
+[2024-08-29 20:34:10.971] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1774.JPG
+[2024-08-29 20:34:10.972] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-29 20:34:12.369] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1775.JPG
+[2024-08-29 20:34:12.369] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-29 20:35:18.517] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.4/IMG_1780.JPG
+[2024-08-29 20:35:18.518] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-29 20:35:20.097] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.4/IMG_1781.JPG
+[2024-08-29 20:35:20.100] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-29 20:46:41.726] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1775.JPG
+[2024-08-29 20:46:41.727] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-29 20:46:43.040] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1776.JPG
+[2024-08-29 20:46:43.041] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-29 20:48:17.644] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1775.JPG
+[2024-08-29 20:48:35.116] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1774.JPG
+[2024-08-29 20:48:35.118] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-29 20:48:36.685] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1776.JPG
+[2024-08-29 20:48:36.686] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-29 23:41:57.352] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1774.JPG
+[2024-08-29 23:41:57.353] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-30 22:28:01.023] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1774.JPG
+[2024-08-30 22:28:01.034] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-30 22:28:05.825] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1775.JPG
+[2024-08-30 22:28:05.826] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-30 22:29:39.788] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1774.JPG
+[2024-08-30 22:29:39.789] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-30 22:29:46.133] Î´Ñ¡ÔñÍ¼Æ¬
+[2024-08-30 22:31:00.911] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1775.JPG
+[2024-08-30 22:31:00.918] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-30 22:31:07.536] Î´Ñ¡ÔñÍ¼Æ¬
+[2024-08-30 22:33:56.500] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1774.JPG
+[2024-08-30 22:33:56.502] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: name 'yolo_detect' is not defined
+[2024-08-30 22:40:46.479] Î´Ñ¡ÔñÍ¼Æ¬
+[2024-08-30 22:40:50.361] Î´Ñ¡ÔñÍ¼Æ¬
+[2024-09-01 19:20:02.401] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/5.3/IMG_1774.JPG
+[2024-09-08 18:37:42.884] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/MI/OneDrive/Í¼Æ¬/Default.jpg
+[2024-09-08 18:37:43.644] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: Could not run 'torchvision::nms' with arguments from the 'CUDA' backend. This could be because the operator doesn't exist for this backend, or was omitted during the selective/custom build process (if using custom build). If you are a Facebook employee using PyTorch on mobile, please visit https://fburl.com/ptmfixes for possible resolutions. 'torchvision::nms' is only available for these backends: [CPU, Meta, QuantizedCPU, BackendSelect, Python, FuncTorchDynamicLayerBackMode, Functionalize, Named, Conjugate, Negative, ZeroTensor, ADInplaceOrView, AutogradOther, AutogradCPU, AutogradCUDA, AutogradXLA, AutogradMPS, AutogradXPU, AutogradHPU, AutogradLazy, AutogradMeta, Tracer, AutocastCPU, AutocastCUDA, FuncTorchBatched, BatchedNestedTensor, FuncTorchVmapMode, Batched, VmapMode, FuncTorchGradWrapper, PythonTLSSnapshot, FuncTorchDynamicLayerFrontMode, PreDispatch, PythonDispatcher].
+
+CPU: registered at C:\actions-runner\_work\vision\vision\pytorch\vision\torchvision\csrc\ops\cpu\nms_kernel.cpp:112 [kernel]
+Meta: registered at /dev/null:467 [kernel]
+QuantizedCPU: registered at C:\actions-runner\_work\vision\vision\pytorch\vision\torchvision\csrc\ops\quantized\cpu\qnms_kernel.cpp:124 [kernel]
+BackendSelect: fallthrough registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\BackendSelectFallbackKernel.cpp:3 [backend fallback]
+Python: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\PythonFallbackKernel.cpp:154 [backend fallback]
+FuncTorchDynamicLayerBackMode: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\DynamicLayer.cpp:497 [backend fallback]
+Functionalize: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\FunctionalizeFallbackKernel.cpp:324 [backend fallback]
+Named: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\NamedRegistrations.cpp:7 [backend fallback]
+Conjugate: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\ConjugateFallback.cpp:17 [backend fallback]
+Negative: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\native\NegateFallback.cpp:18 [backend fallback]
+ZeroTensor: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\ZeroTensorFallback.cpp:86 [backend fallback]
+ADInplaceOrView: fallthrough registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:86 [backend fallback]
+AutogradOther: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:53 [backend fallback]
+AutogradCPU: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:57 [backend fallback]
+AutogradCUDA: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:65 [backend fallback]
+AutogradXLA: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:69 [backend fallback]
+AutogradMPS: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:77 [backend fallback]
+AutogradXPU: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:61 [backend fallback]
+AutogradHPU: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:90 [backend fallback]
+AutogradLazy: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:73 [backend fallback]
+AutogradMeta: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:81 [backend fallback]
+Tracer: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\torch\csrc\autograd\TraceTypeManual.cpp:297 [backend fallback]
+AutocastCPU: registered at C:\actions-runner\_work\vision\vision\pytorch\vision\torchvision\csrc\ops\autocast\nms_kernel.cpp:34 [kernel]
+AutocastCUDA: registered at C:\actions-runner\_work\vision\vision\pytorch\vision\torchvision\csrc\ops\autocast\nms_kernel.cpp:27 [kernel]
+FuncTorchBatched: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\LegacyBatchingRegistrations.cpp:731 [backend fallback]
+BatchedNestedTensor: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\LegacyBatchingRegistrations.cpp:758 [backend fallback]
+FuncTorchVmapMode: fallthrough registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\VmapModeRegistrations.cpp:27 [backend fallback]
+Batched: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\LegacyBatchingRegistrations.cpp:1075 [backend fallback]
+VmapMode: fallthrough registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\VmapModeRegistrations.cpp:33 [backend fallback]
+FuncTorchGradWrapper: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\TensorWrapper.cpp:202 [backend fallback]
+PythonTLSSnapshot: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\PythonFallbackKernel.cpp:162 [backend fallback]
+FuncTorchDynamicLayerFrontMode: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\DynamicLayer.cpp:493 [backend fallback]
+PreDispatch: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\PythonFallbackKernel.cpp:166 [backend fallback]
+PythonDispatcher: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\PythonFallbackKernel.cpp:158 [backend fallback]
+
+[2024-09-08 18:37:53.468] Ìí¼ÓÁËÅú×¢: circle
+[2024-09-18 18:16:38.055] ¼ÓÔØÁËÍ¼Æ¬: I:/ÈË¹¤ÖÇÄÜÑĞ¾¿Ôº/ÏßÊøÏîÄ¿/202408ComponentsDataset/images/IMG_1661.jpg
+[2024-09-18 18:16:38.858] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: Could not run 'torchvision::nms' with arguments from the 'CUDA' backend. This could be because the operator doesn't exist for this backend, or was omitted during the selective/custom build process (if using custom build). If you are a Facebook employee using PyTorch on mobile, please visit https://fburl.com/ptmfixes for possible resolutions. 'torchvision::nms' is only available for these backends: [CPU, Meta, QuantizedCPU, BackendSelect, Python, FuncTorchDynamicLayerBackMode, Functionalize, Named, Conjugate, Negative, ZeroTensor, ADInplaceOrView, AutogradOther, AutogradCPU, AutogradCUDA, AutogradXLA, AutogradMPS, AutogradXPU, AutogradHPU, AutogradLazy, AutogradMeta, Tracer, AutocastCPU, AutocastCUDA, FuncTorchBatched, BatchedNestedTensor, FuncTorchVmapMode, Batched, VmapMode, FuncTorchGradWrapper, PythonTLSSnapshot, FuncTorchDynamicLayerFrontMode, PreDispatch, PythonDispatcher].
+
+CPU: registered at C:\actions-runner\_work\vision\vision\pytorch\vision\torchvision\csrc\ops\cpu\nms_kernel.cpp:112 [kernel]
+Meta: registered at /dev/null:467 [kernel]
+QuantizedCPU: registered at C:\actions-runner\_work\vision\vision\pytorch\vision\torchvision\csrc\ops\quantized\cpu\qnms_kernel.cpp:124 [kernel]
+BackendSelect: fallthrough registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\BackendSelectFallbackKernel.cpp:3 [backend fallback]
+Python: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\PythonFallbackKernel.cpp:154 [backend fallback]
+FuncTorchDynamicLayerBackMode: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\DynamicLayer.cpp:497 [backend fallback]
+Functionalize: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\FunctionalizeFallbackKernel.cpp:324 [backend fallback]
+Named: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\NamedRegistrations.cpp:7 [backend fallback]
+Conjugate: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\ConjugateFallback.cpp:17 [backend fallback]
+Negative: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\native\NegateFallback.cpp:18 [backend fallback]
+ZeroTensor: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\ZeroTensorFallback.cpp:86 [backend fallback]
+ADInplaceOrView: fallthrough registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:86 [backend fallback]
+AutogradOther: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:53 [backend fallback]
+AutogradCPU: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:57 [backend fallback]
+AutogradCUDA: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:65 [backend fallback]
+AutogradXLA: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:69 [backend fallback]
+AutogradMPS: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:77 [backend fallback]
+AutogradXPU: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:61 [backend fallback]
+AutogradHPU: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:90 [backend fallback]
+AutogradLazy: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:73 [backend fallback]
+AutogradMeta: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\VariableFallbackKernel.cpp:81 [backend fallback]
+Tracer: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\torch\csrc\autograd\TraceTypeManual.cpp:297 [backend fallback]
+AutocastCPU: registered at C:\actions-runner\_work\vision\vision\pytorch\vision\torchvision\csrc\ops\autocast\nms_kernel.cpp:34 [kernel]
+AutocastCUDA: registered at C:\actions-runner\_work\vision\vision\pytorch\vision\torchvision\csrc\ops\autocast\nms_kernel.cpp:27 [kernel]
+FuncTorchBatched: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\LegacyBatchingRegistrations.cpp:731 [backend fallback]
+BatchedNestedTensor: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\LegacyBatchingRegistrations.cpp:758 [backend fallback]
+FuncTorchVmapMode: fallthrough registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\VmapModeRegistrations.cpp:27 [backend fallback]
+Batched: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\LegacyBatchingRegistrations.cpp:1075 [backend fallback]
+VmapMode: fallthrough registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\VmapModeRegistrations.cpp:33 [backend fallback]
+FuncTorchGradWrapper: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\TensorWrapper.cpp:202 [backend fallback]
+PythonTLSSnapshot: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\PythonFallbackKernel.cpp:162 [backend fallback]
+FuncTorchDynamicLayerFrontMode: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\functorch\DynamicLayer.cpp:493 [backend fallback]
+PreDispatch: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\PythonFallbackKernel.cpp:166 [backend fallback]
+PythonDispatcher: registered at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\core\PythonFallbackKernel.cpp:158 [backend fallback]
+
+[2025-01-26 23:33:31.284] Î´Ñ¡ÔñÍ¼Æ¬
+[2025-01-26 23:34:01.858] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-01-26 23:34:58.176] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-01-26 23:35:09.858] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-01-26 23:35:36.368] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-01-26 23:36:02.345] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-01-27 11:11:08.963] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-01-27 11:11:27.922] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-15 23:15:47.891] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-15 23:18:47.994] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-15 23:19:01.390] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-15 23:25:19.231] Zoom Out ³öÏÖ´íÎó: 'MyApp' object has no attribute 'pixmap'
+[2025-02-15 23:25:19.281] Zoom Out ³öÏÖ´íÎó: 'MyApp' object has no attribute 'pixmap'
+[2025-02-15 23:25:21.248] Zoom In ³öÏÖ´íÎó: 'MyApp' object has no attribute 'pixmap'
+[2025-02-15 23:25:21.381] Zoom In ³öÏÖ´íÎó: 'MyApp' object has no attribute 'pixmap'
+[2025-02-15 23:25:22.191] Zoom Out ³öÏÖ´íÎó: 'MyApp' object has no attribute 'pixmap'
+[2025-02-15 23:25:35.607] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-15 23:26:11.854] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-15 23:26:45.414] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-15 23:27:05.563] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-16 23:05:33.607] Ìí¼ÓÅú×¢Ê±³öÏÖ´íÎó: 'MyApp' object has no attribute 'imgName'
+[2025-02-16 23:05:41.701] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-16 23:07:35.790] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-16 23:08:02.625] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-16 23:08:19.997] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-16 23:10:25.570] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-16 23:10:52.833] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-16 23:12:12.589] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-16 23:12:34.800] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-16 23:37:36.236] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-16 23:37:51.652] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-17 10:10:24.701] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 10:10:48.146] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-17 10:15:05.405] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 10:17:00.156] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 10:17:37.095] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-17 10:20:33.496] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 10:37:44.419] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-17 11:08:14.266] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 11:09:07.577] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-17 11:20:37.789] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-17 13:41:25.312] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 13:41:44.911] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-17 13:41:54.275] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-17 13:42:01.277] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-17 13:45:06.734] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 13:45:27.984] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 13:46:17.548] Error displaying image: name 'QRect' is not defined
+[2025-02-17 13:46:17.550] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-17 13:46:24.412] Error displaying image: name 'QRect' is not defined
+[2025-02-17 13:46:24.414] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-17 13:47:37.610] Error displaying image: name 'QRect' is not defined
+[2025-02-17 13:47:37.617] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-17 13:47:38.418] Error displaying image: name 'QRect' is not defined
+[2025-02-17 13:47:38.540] Error displaying image: name 'QRect' is not defined
+[2025-02-17 13:48:27.006] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 13:48:52.408] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 13:48:56.695] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-17 13:49:01.837] Error displaying image: name 'QRect' is not defined
+[2025-02-17 13:49:01.844] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-17 13:49:24.113] Error displaying image: name 'QRect' is not defined
+[2025-02-17 13:49:24.120] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-17 13:50:42.328] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-17 13:51:18.002] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 13:51:33.796] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-17 13:51:40.520] Ìí¼ÓÁËÅú×¢: line
+[2025-02-17 13:53:34.655] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-17 13:55:03.745] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-17 13:56:13.121] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-17 13:59:50.710] Ìí¼ÓÅú×¢Ê±³öÏÖ´íÎó: 'MyApp' object has no attribute 'imgName'
+[2025-02-17 13:59:57.392] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 14:00:22.196] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-17 14:01:29.256] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 14:01:33.617] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-17 14:03:27.350] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-17 14:06:58.453] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-17 14:07:49.942] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-17 14:07:53.990] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 14:07:58.419] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-17 14:09:16.625] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 14:11:37.137] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 14:20:15.155] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 14:20:31.361] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 14:20:36.046] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-17 14:22:50.398] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-17 14:31:47.775] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 20:02:48.834] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 20:15:18.718] Zoom Out ³öÏÖ´íÎó: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:17:20.051] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 20:21:18.244] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 20:22:32.587] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 20:22:51.580] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 20:23:00.008] Ìí¼ÓÁËÅú×¢: line
+[2025-02-17 20:23:04.144] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-17 20:26:19.140] Zoom In ³öÏÖ´íÎó: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:26:19.231] Zoom In ³öÏÖ´íÎó: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:28:13.592] Zoom Out Error: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:28:13.674] Zoom Out Error: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:28:15.570] Zoom In Error: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:28:15.666] Zoom In Error: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:28:16.240] Zoom Out Error: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:28:16.405] Zoom Out Error: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:28:16.757] Zoom In Error: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:28:16.865] Zoom In Error: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:28:17.189] Zoom Out Error: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 20:29:21.984] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 20:29:53.253] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 20:30:55.845] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 20:31:21.423] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 20:31:52.595] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 20:39:35.748] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 20:40:12.435] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 20:45:59.094] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 20:46:24.353] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 20:53:27.840] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 20:54:25.111] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 20:55:26.410] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 20:56:02.355] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 20:57:05.166] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-17 20:57:21.626] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:07:22.075] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:07:39.736] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:08:47.608] Zoom In Error: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 21:08:51.670] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:09:08.023] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:15:16.150] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:15:41.095] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:17:05.886] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:17:23.657] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:19:12.398] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-17 21:20:15.652] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:26:16.841] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:36:33.164] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:37:58.758] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:38:42.281] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:38:56.406] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:39:56.616] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:40:27.340] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:41:13.701] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:41:54.875] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:42:29.917] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:42:45.725] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:43:34.805] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:44:03.198] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:46:22.723] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:46:43.763] Î´Ñ¡ÔñÍ¼Æ¬
+[2025-02-17 21:47:02.737] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:47:22.999] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 21:49:55.892] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 21:50:29.718] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 23:12:09.958] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 23:12:23.647] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 23:15:06.660] Zoom In Error: 'MyApp' object has no attribute 'pixmap'
+[2025-02-17 23:15:10.044] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 23:16:55.037] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 23:18:01.759] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 23:18:17.801] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 23:18:34.269] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-17 23:18:47.300] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-17 23:18:53.374] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-17 23:19:00.434] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-17 23:20:25.421] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-17 23:22:03.477] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 10:07:02.054] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 10:07:29.625] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 10:07:36.686] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-18 10:07:39.679] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 10:09:38.782] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 10:11:31.952] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 10:11:37.142] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-18 10:11:41.289] Ìí¼ÓÁËÅú×¢: line
+[2025-02-18 10:11:43.290] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-18 10:11:47.256] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 10:16:56.664] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 10:17:42.208] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 10:18:25.605] Ìí¼ÓÁËÅú×¢: line
+[2025-02-18 10:18:34.324] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-18 10:56:02.277] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 10:57:01.890] Zoom In Error: 'NoneType' object has no attribute 'isNull'
+[2025-02-18 10:57:01.993] Zoom In Error: 'NoneType' object has no attribute 'isNull'
+[2025-02-18 10:57:02.113] Zoom In Error: 'NoneType' object has no attribute 'isNull'
+[2025-02-18 10:57:02.555] Zoom Out Error: 'NoneType' object has no attribute 'isNull'
+[2025-02-18 10:57:02.705] Zoom Out Error: 'NoneType' object has no attribute 'isNull'
+[2025-02-18 10:57:49.107] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 10:59:35.431] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 11:00:36.992] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 11:01:46.005] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 11:02:48.745] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 11:03:43.741] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 16:39:16.908] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 16:40:03.757] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 16:58:54.911] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-18 16:59:11.713] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:00:19.867] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-18 17:00:35.727] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:02:23.256] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 17:04:35.459] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:05:19.754] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 17:06:13.978] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:07:01.753] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 17:07:23.793] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:10:11.054] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 17:10:36.607] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:11:29.118] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 17:11:43.227] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:12:15.977] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 17:14:14.851] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:17:53.032] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 17:18:07.225] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:20:58.526] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 17:21:27.270] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:23:42.232] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 17:24:09.508] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:26:37.473] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 17:27:00.688] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 17:30:36.292] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 17:30:53.110] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:13:00.348] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:14:16.526] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:15:35.982] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:18:27.011] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:18:54.755] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:19:08.056] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-18 19:19:40.327] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:20:05.045] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:21:06.991] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:21:22.692] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:28:40.141] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:29:08.668] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:35:22.475] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:35:39.789] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:37:01.904] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:38:20.786] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:39:03.446] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:39:20.341] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:46:58.016] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:47:24.098] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:48:06.021] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:48:23.148] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:56:37.879] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:56:56.981] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:58:05.438] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:58:28.388] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 19:58:59.629] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 19:59:19.091] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 20:00:53.320] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 20:01:29.844] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 20:03:41.220] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 20:04:03.883] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 20:09:34.712] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 20:10:02.763] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 20:24:44.574] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 20:25:08.837] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 20:33:53.101] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 20:34:13.972] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 20:34:30.295] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-18 20:35:33.298] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 20:35:54.986] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 20:38:19.348] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 20:38:50.282] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 20:51:47.456] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 20:52:26.628] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 20:52:31.353] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-18 20:53:43.403] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 20:54:00.733] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 20:54:05.282] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-18 20:58:38.996] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 20:59:03.895] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 21:11:29.889] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 21:12:00.426] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 21:19:23.716] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 21:19:59.090] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:01:53.120] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:02:17.563] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:02:44.626] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-18 22:04:31.933] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:04:46.350] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:08:37.266] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:08:48.666] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:11:43.047] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:12:05.939] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:12:45.255] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:12:57.985] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:16:19.580] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:16:53.912] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:19:59.080] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:20:10.918] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:21:15.384] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:21:27.969] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:22:18.341] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:22:30.183] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:23:43.213] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:23:55.262] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:26:22.206] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:26:39.168] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:26:46.895] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-18 22:26:56.239] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-18 22:27:07.846] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-18 22:27:16.873] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-18 22:29:25.206] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:30:30.775] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:30:34.156] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-18 22:32:29.017] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-18 22:32:34.852] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-18 22:42:00.018] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:42:20.043] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:42:24.804] Ìí¼ÓÁËÅú×¢: circle
+[2025-02-18 22:43:09.578] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:43:45.292] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:45:12.463] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:46:41.804] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:49:25.054] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:49:42.005] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:50:30.599] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:51:04.147] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:51:53.942] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:52:44.686] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:54:24.642] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:54:38.870] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:55:18.060] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:55:35.620] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 22:58:33.029] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 22:58:46.792] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:00:04.179] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:00:24.719] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:14:46.088] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:17:17.088] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:17:58.898] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:18:11.797] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:20:04.437] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:20:17.327] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:21:42.558] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:21:58.359] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:22:28.993] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:22:42.556] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:23:33.787] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:23:45.530] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:24:39.195] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:24:51.378] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:26:08.591] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:26:20.317] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:27:33.739] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:30:53.043] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:32:37.023] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:32:50.595] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:33:37.453] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:33:58.887] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:35:02.241] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:35:31.304] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:36:52.103] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:37:28.082] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:38:31.178] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:38:42.992] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:40:21.558] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:40:38.148] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:42:36.177] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:42:52.816] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:44:13.686] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:44:29.833] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:45:54.954] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:46:31.478] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:47:44.278] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:48:02.113] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:49:52.095] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-18 23:50:16.461] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:51:05.761] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:51:19.275] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:53:32.205] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:54:16.233] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-18 23:57:53.814] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-18 23:58:05.455] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 00:00:06.567] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 00:00:19.629] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:03:15.649] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:03:38.663] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:04:28.216] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:04:46.720] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:04:53.851] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:11:23.710] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:11:39.581] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:18:49.693] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:19:23.096] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:22:59.498] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:23:18.358] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:24:17.475] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:24:34.245] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:25:47.339] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-19 10:28:33.081] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:28:51.799] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:30:34.581] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:30:54.510] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:44:03.875] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:44:28.444] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:46:36.432] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:47:05.837] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:50:15.487] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:50:31.101] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:52:02.028] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:53:17.027] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 10:55:07.445] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 10:55:32.623] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 11:00:30.371] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 11:00:54.482] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 11:03:06.898] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 11:03:26.890] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 11:10:10.632] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 11:10:32.418] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 11:11:39.476] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 11:11:59.499] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 15:22:54.605] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 15:23:20.473] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 15:26:05.865] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-19 15:26:09.641] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-19 15:26:25.813] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-19 15:26:30.131] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-19 15:26:35.771] Ìí¼ÓÁËÅú×¢: rectangle
+[2025-02-19 16:13:24.736] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 16:13:37.263] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 16:16:55.682] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 16:17:52.652] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 16:20:40.147] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 16:20:51.856] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 16:31:46.473] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 16:32:05.569] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 16:34:49.770] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 16:35:06.665] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 16:38:24.291] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 16:38:47.816] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-19 16:38:48.962] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 16:43:33.256] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 16:43:46.269] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 16:49:49.986] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 16:50:05.259] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 16:52:23.150] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 16:52:36.630] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 16:52:37.724] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:37.748] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:37.764] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:37.780] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:37.796] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:37.796] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:37.812] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:37.827] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:37.827] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:37.843] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:37.859] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:37.874] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.016] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.409] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.440] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.456] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.472] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.487] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.503] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.519] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.519] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.534] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.550] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.550] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.566] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.581] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.581] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.597] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.612] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.628] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.628] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:52:38.675] Error displaying image: 'QPoint' object has no attribute 'sety'
+[2025-02-19 16:53:57.273] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-19 16:54:11.883] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 16:54:22.442] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.452] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.467] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.483] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.499] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.524] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.540] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.556] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.589] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.604] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.620] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.636] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.651] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.667] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.683] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.694] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 16:54:22.741] Error displaying image: argument 1 overflowed: value must be in the range -2147483648 to 2147483647
+[2025-02-19 17:00:05.512] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 17:00:21.821] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 17:00:23.655] Error displaying image: 'start'
+[2025-02-19 17:00:23.672] Error displaying image: 'start'
+[2025-02-19 17:00:23.694] Error displaying image: 'start'
+[2025-02-19 17:00:23.719] Error displaying image: 'start'
+[2025-02-19 17:00:23.739] Error displaying image: 'start'
+[2025-02-19 17:00:23.761] Error displaying image: 'start'
+[2025-02-19 17:00:23.776] Error displaying image: 'start'
+[2025-02-19 17:00:23.786] Error displaying image: 'start'
+[2025-02-19 17:00:23.797] Error displaying image: 'start'
+[2025-02-19 17:00:23.807] Error displaying image: 'start'
+[2025-02-19 17:00:23.835] Error displaying image: 'start'
+[2025-02-19 17:00:23.853] Error displaying image: 'start'
+[2025-02-19 17:00:23.865] Error displaying image: 'start'
+[2025-02-19 17:00:23.887] Error displaying image: 'start'
+[2025-02-19 17:00:23.908] Error displaying image: 'start'
+[2025-02-19 17:00:23.929] Error displaying image: 'start'
+[2025-02-19 17:00:23.947] Error displaying image: 'start'
+[2025-02-19 17:00:24.443] Error displaying image: 'start'
+[2025-02-19 17:01:17.720] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 17:01:43.554] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 17:02:48.298] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 17:04:09.470] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 18:45:38.266] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 18:46:12.430] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 19:33:13.819] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 19:33:29.198] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 19:35:13.505] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 19:37:50.908] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 19:51:08.899] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 19:58:49.900] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 20:00:35.284] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-19 20:00:51.493] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 20:02:44.862] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-19 20:06:11.583] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 20:06:25.207] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 20:07:29.954] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-19 20:08:05.732] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 20:08:26.584] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 20:08:48.118] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-19 20:09:32.553] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-19 20:09:42.627] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-19 20:09:57.037] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 20:11:16.847] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 20:11:33.102] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 20:11:45.631] Error displaying image: 'NoneType' object is not iterable
+[2025-02-19 20:11:45.647] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-19 20:11:52.103] Error displaying image: 'NoneType' object is not iterable
+[2025-02-19 20:11:52.166] Error displaying image: 'NoneType' object is not iterable
+[2025-02-19 20:11:52.291] Error displaying image: 'NoneType' object is not iterable
+[2025-02-19 20:13:38.015] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 20:14:21.615] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-19 20:14:37.833] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-19 20:15:07.671] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-19 20:15:17.635] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 20:15:27.366] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 20:15:37.148] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 20:35:58.628] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-19 20:36:20.052] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-23 10:19:47.281] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-23 10:20:14.572] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 11:57:31.200] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 12:00:40.779] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 15:49:38.074] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1662.jpg
+[2025-02-26 15:52:22.285] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1661.jpg
+[2025-02-26 15:55:13.820] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1661.jpg
+[2025-02-26 16:04:21.528] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1666.jpg
+[2025-02-26 16:04:25.323] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: torch._VariableFunctionsClass.meshgrid() got multiple values for keyword argument 'indexing'
+[2025-02-26 16:22:43.428] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1661.jpg
+[2025-02-26 16:27:43.426] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1661.jpg
+[2025-02-26 16:29:13.259] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1661.jpg
+[2025-02-26 16:35:14.525] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1662.jpg
+[2025-02-26 16:37:55.575] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1661.jpg
+[2025-02-26 16:44:53.308] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1666.jpg
+[2025-02-26 16:50:18.685] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1666.jpg
+[2025-02-26 16:51:28.992] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/images/IMG_1670.jpg
+[2025-02-26 17:20:38.453] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 19:27:10.322] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 19:29:11.764] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 19:30:35.511] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 19:31:34.380] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 19:34:05.071] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 19:35:07.575] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 19:40:09.624] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 19:40:43.498] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 19:53:21.570] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 19:53:56.534] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 19:58:18.212] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 19:58:56.989] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 19:59:19.585] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 19:59:55.510] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 20:01:33.657] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 20:06:36.146] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 20:08:34.742] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 20:09:45.400] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 20:10:16.599] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 20:24:27.209] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-26 20:26:06.803] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 20:26:21.466] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-26 20:26:24.517] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-02-26 20:27:02.716] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_151000.jpg
+[2025-02-26 20:31:16.100] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-02-28 13:01:16.834] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-02-28 13:01:43.692] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-02 20:45:57.153] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-03-02 20:59:03.161] ¼ÓÔØÁËÍ¼Æ¬: F:/QianJiale/Project/InterfaceDesign-hj/test_images/IMG_20231201_150838.jpg
+[2025-03-06 22:22:57.962] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-12 16:31:42.755] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-12 17:07:35.469] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-13 17:23:37.281] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-13 17:24:27.989] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-13 17:24:50.674] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-13 17:24:52.886] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-03-13 17:24:58.797] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-13 17:25:22.216] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-03-13 17:28:34.506] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-13 17:29:53.757] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-03-13 17:32:19.862] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-13 17:32:35.003] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-13 17:33:14.161] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-13 17:39:32.698] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-13 17:42:06.960] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-13 17:42:24.107] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-13 18:12:28.614] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-13 18:13:24.633] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-13 18:21:59.172] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-13 18:26:04.569] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-13 18:32:40.561] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-13 18:44:01.865] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-13 18:49:23.269] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-13 19:00:37.599] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-13 19:02:18.939] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-13 19:02:32.014] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-03-13 19:09:56.081] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-18 20:17:39.739] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-25 22:26:47.247] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:26:47.251] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 22:26:49.698] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-25 22:26:50.872] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-25 22:26:51.230] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-25 22:26:55.287] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-25 22:26:56.458] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-25 22:26:57.960] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-25 22:26:58.950] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-25 22:27:01.100] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-25 22:27:10.876] Î´Ñ¡ÔñÍ¼Æ¬
+[2025-03-25 22:27:15.396] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:27:15.399] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 22:27:16.657] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-25 22:27:18.082] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:27:18.086] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 22:27:38.842] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-25 22:27:38.844] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 22:27:39.917] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:27:39.919] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 22:27:42.261] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6297 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-25 22:27:43.939] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-25 22:27:44.911] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-25 22:27:45.459] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-25 22:27:48.081] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:29:09.522] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-25 22:29:09.525] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 22:29:10.164] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:29:10.165] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 22:29:12.483] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6008 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-25 22:29:20.166] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:29:26.183] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:35:58.272] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:35:58.273] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 22:36:04.987] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:36:21.088] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:36:21.089] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 22:36:23.432] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6057 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-25 22:36:47.232] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:36:47.235] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 22:36:48.096] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-25 22:36:54.552] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:36:54.554] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 22:36:56.901] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6093 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-25 22:36:58.909] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-25 22:36:59.481] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-25 22:37:00.894] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-25 22:37:13.275] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:37:18.012] Error displaying image: name 'QPolygonF' is not defined
+[2025-03-25 22:37:41.468] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:37:41.470] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 22:37:49.739] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:37:49.740] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 22:37:52.068] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.5956 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-25 22:37:52.691] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:38:08.441] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:43:49.589] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-25 22:43:49.591] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 22:43:50.549] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:43:50.551] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 22:43:52.379] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:43:52.872] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6004 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-25 22:44:01.348] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-03-25 22:44:36.152] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-25 22:45:34.820] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:45:42.848] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-03-25 22:46:32.592] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:55:01.577] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-25 22:55:01.579] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 22:55:02.771] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:55:02.773] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 22:55:05.075] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.5957 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-25 22:55:06.472] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:55:15.347] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:55:47.855] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:55:47.857] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 22:55:50.062] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:55:50.064] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 22:55:52.403] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.5914 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-25 22:55:52.560] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:56:22.175] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-25 22:56:22.177] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 22:56:24.256] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 22:56:24.260] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 22:56:26.501] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 22:56:26.580] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.5840 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-25 22:56:35.381] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-03-25 23:46:10.289] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 23:46:10.291] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 23:46:11.071] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-25 23:46:11.074] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 23:46:13.099] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 23:46:13.682] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.5939 Ãë£¬¼ì²âµ½ 53 ¸ö¶ÔÏó
+[2025-03-25 23:46:22.077] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 23:47:45.487] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 23:47:45.489] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 23:47:46.233] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 23:47:46.235] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 23:47:47.730] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 23:47:48.576] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6041 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-25 23:47:51.487] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 23:54:51.641] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-25 23:54:51.642] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-25 23:54:52.192] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-25 23:54:52.194] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-25 23:54:54.716] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6366 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-25 23:54:57.893] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-25 23:55:09.673] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-03-25 23:55:27.922] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 00:06:28.052] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-26 00:06:28.053] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 00:06:29.082] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 00:06:29.084] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 00:06:31.551] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6341 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 00:06:33.476] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 00:06:35.982] Error displaying image: name 'QPolygonF' is not defined
+[2025-03-26 00:06:59.276] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-26 00:06:59.278] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 00:07:00.446] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 00:07:00.448] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 00:07:02.101] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 00:07:02.866] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6055 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 00:07:19.658] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-03-26 00:10:55.683] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-26 00:10:55.686] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 00:10:56.817] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 00:10:56.819] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 00:10:59.194] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6042 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 00:11:09.858] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 00:11:40.694] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-03-26 00:21:48.313] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 00:21:48.315] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 00:21:49.148] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 00:21:49.150] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 00:21:51.497] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.5992 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 00:21:52.884] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 00:22:11.826] ÍË³öÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑ½ûÓÃ¡£
+[2025-03-26 00:22:19.180] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 09:55:36.800] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 09:55:36.803] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 09:55:37.572] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 09:55:37.573] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 09:55:40.312] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6032 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 09:55:47.999] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 10:04:53.841] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-26 10:04:53.842] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 10:04:54.504] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:04:54.505] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:04:56.907] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6264 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 10:04:58.498] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 10:05:18.254] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 10:13:04.542] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:13:04.544] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 10:13:06.116] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:13:06.120] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:13:08.523] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6189 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 10:13:12.768] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 10:21:42.151] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:21:42.153] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 10:21:42.737] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:21:42.739] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:21:44.573] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 10:21:45.496] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6310 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 10:26:43.580] ¼ÓÔØÍ¼Æ¬Ê±³öÏÖ´íÎó: display_scaled_image() got an unexpected keyword argument 'initial_load'
+[2025-03-26 10:32:36.767] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-26 10:32:36.769] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 10:32:37.674] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:32:37.676] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:32:39.593] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 10:32:40.118] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.5993 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 10:35:12.057] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-26 10:35:12.059] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 10:35:13.220] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-26 10:35:13.222] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:35:14.344] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 10:35:15.688] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6118 Ãë£¬¼ì²âµ½ 53 ¸ö¶ÔÏó
+[2025-03-26 10:42:43.410] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-26 10:42:43.412] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 10:42:44.318] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:42:44.319] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:42:45.932] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 10:42:46.682] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6089 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 10:47:15.250] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:47:15.252] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 10:47:16.803] ½øÈëÅú×¢Ä£Ê½£¬ÓÒ¼ü²Ëµ¥ÒÑÆôÓÃ¡£
+[2025-03-26 10:56:07.993] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-26 10:56:07.995] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 10:56:08.694] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:56:08.696] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:56:09.930] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:56:10.473] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 10:56:10.961] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:56:11.323] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6849 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 10:56:11.754] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 10:56:12.240] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 10:56:12.971] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:56:13.526] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 10:56:15.119] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 10:56:16.198] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-26 10:56:16.201] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:56:16.787] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.5800 Ãë£¬¼ì²âµ½ 53 ¸ö¶ÔÏó
+[2025-03-26 10:56:17.030] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:56:17.464] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 10:56:17.907] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 10:56:19.795] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:56:19.799] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:56:20.411] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6064 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 10:56:20.984] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:56:21.385] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 10:56:22.111] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:56:40.723] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:56:40.725] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:56:41.331] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.6002 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 10:56:42.246] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:56:45.936] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 10:56:50.081] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_151000.jpg
+[2025-03-26 10:56:50.084] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:56:50.673] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.5841 Ãë£¬¼ì²âµ½ 53 ¸ö¶ÔÏó
+[2025-03-26 10:56:51.274] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 10:56:51.637] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:56:52.204] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 10:56:53.334] ¼ÓÔØÁËÍ¼Æ¬: E:/¼ÆÉè/test_images/IMG_20231201_150838.jpg
+[2025-03-26 10:56:53.338] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 10:56:53.935] YOLO¼ì²âÍê³É£¬ºÄÊ± 0.5922 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 10:56:54.722] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:56:57.052] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 10:57:00.337] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 10:57:02.175] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:57:02.880] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 10:57:03.406] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:57:05.996] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 10:57:06.358] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 10:57:06.691] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 10:57:07.032] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:57:08.384] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 10:57:09.156] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 10:57:09.844] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 13:44:42.968] åŠ è½½äº†å›¾ç‰‡: C:/Users/86151/Desktop/è®¡è®¾1.0/test_images/IMG_20231201_151000.jpg
+[2025-03-26 13:44:42.968] è¯·ç‚¹å‡»ç›¸åº”çš„æ£€æµ‹æŒ‰é’®æ‰§è¡Œæ£€æµ‹
+[2025-03-26 13:48:12.761] åŠ è½½äº†å›¾ç‰‡: C:/Users/86151/Desktop/è®¡è®¾1.0/test_images/IMG_20231201_151000.jpg
+[2025-03-26 13:48:12.761] è¯·ç‚¹å‡»ç›¸åº”çš„æ£€æµ‹æŒ‰é’®æ‰§è¡Œæ£€æµ‹
+[2025-03-26 13:49:37.702] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_151000.jpg
+[2025-03-26 13:49:37.706] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 13:49:39.649] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 13:49:41.188] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 13:49:42.150] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 13:49:42.900] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 13:49:43.740] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 13:49:44.921] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 13:49:45.933] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 13:49:46.809] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 13:49:47.483] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 13:50:06.039] Î´Ñ¡ÔñÍ¼Æ¬
+[2025-03-26 13:52:58.517] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_150838.jpg
+[2025-03-26 13:52:58.522] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 13:53:00.674] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 13:53:01.716] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 13:53:02.791] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 13:53:03.970] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 14:03:33.486] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_151000.jpg
+[2025-03-26 14:03:33.489] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 14:03:34.612] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 14:03:36.203] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 14:03:36.923] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 14:03:38.013] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 14:03:38.854] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 14:03:39.720] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 14:03:42.404] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_151000.jpg
+[2025-03-26 14:03:42.410] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 14:03:43.834] ÏÔÊ¾YOLO¼ì²â½á¹û
+[2025-03-26 14:03:44.957] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹û
+[2025-03-26 14:03:45.922] ÏÔÊ¾PointRend¼ì²â½á¹û
+[2025-03-26 14:03:50.793] YOLO¼ì²âÍê³É£¬ºÄÊ± 1.4796 Ãë£¬¼ì²âµ½ 53 ¸ö¶ÔÏó
+[2025-03-26 14:05:38.773] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_151000.jpg
+[2025-03-26 14:05:38.778] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 14:05:44.023] ¿ªÊ¼Ö´ĞĞ¹Ø¼üµã¼ì²â...
+[2025-03-26 14:05:46.063] ¿ªÊ¼Ö´ĞĞPointRend¼ì²â...
+[2025-03-26 14:08:13.803] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_150838.jpg
+[2025-03-26 14:08:13.809] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 14:08:14.831] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 14:08:17.914] ¿ªÊ¼Ö´ĞĞ¹Ø¼üµã¼ì²â...
+[2025-03-26 14:16:59.784] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_150838.jpg
+[2025-03-26 14:16:59.790] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 14:17:01.798] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 14:17:06.385] YOLO¼ì²âÍê³É£¬ºÄÊ± 1.3643 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 14:17:06.557] ÏÔÊ¾YOLO¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:17:08.938] ¿ªÊ¼Ö´ĞĞ¹Ø¼üµã¼ì²â...
+[2025-03-26 14:17:20.218] ¹Ø¼üµã¼ì²âÍê³É£¬ºÄÊ± 9.3814 Ãë
+[2025-03-26 14:17:20.467] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:17:22.684] ¿ªÊ¼Ö´ĞĞPointRend¼ì²â...
+[2025-03-26 14:17:47.165] PointRend¼ì²âÍê³É£¬ºÄÊ± 21.5316 Ãë
+[2025-03-26 14:17:47.308] ÏÔÊ¾PointRend¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:18:41.370] ¼ì²âĞÅÏ¢ÒÑ±£´æµ½ C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/111.pdf
+[2025-03-26 14:20:28.737] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_151000.jpg
+[2025-03-26 14:20:28.749] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 14:20:29.960] YOLO¼ì²âÍê³É£¬ºÄÊ± 1.1702 Ãë£¬¼ì²âµ½ 53 ¸ö¶ÔÏó
+[2025-03-26 14:20:30.146] ÏÔÊ¾YOLO¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:20:34.200] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_150838.jpg
+[2025-03-26 14:20:34.202] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 14:20:35.381] YOLO¼ì²âÍê³É£¬ºÄÊ± 1.1657 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 14:20:35.551] ÏÔÊ¾YOLO¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:20:36.451] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_151000.jpg
+[2025-03-26 14:20:36.460] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 14:20:37.608] YOLO¼ì²âÍê³É£¬ºÄÊ± 1.1273 Ãë£¬¼ì²âµ½ 53 ¸ö¶ÔÏó
+[2025-03-26 14:20:37.865] ÏÔÊ¾YOLO¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:20:41.901] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_151000.jpg
+[2025-03-26 14:20:41.904] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 14:20:43.048] YOLO¼ì²âÍê³É£¬ºÄÊ± 1.1361 Ãë£¬¼ì²âµ½ 53 ¸ö¶ÔÏó
+[2025-03-26 14:20:43.234] ÏÔÊ¾YOLO¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:20:44.756] ¿ªÊ¼Ö´ĞĞ¹Ø¼üµã¼ì²â...
+[2025-03-26 14:20:53.485] ¹Ø¼üµã¼ì²âÍê³É£¬ºÄÊ± 8.7125 Ãë
+[2025-03-26 14:20:53.640] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:20:56.490] ¿ªÊ¼Ö´ĞĞPointRend¼ì²â...
+[2025-03-26 14:21:18.313] PointRend¼ì²âÍê³É£¬ºÄÊ± 21.7925 Ãë
+[2025-03-26 14:21:18.477] ÏÔÊ¾PointRend¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:22:16.290] ¼ì²âĞÅÏ¢ÒÑ±£´æµ½ C:/Users/86151/Desktop/¼ÆÉè1.0/detection_information/2025_3_26.docx
+[2025-03-26 14:23:52.839] ¼ì²âĞÅÏ¢ÒÑ±£´æµ½ C:/Users/86151/Desktop/¼ÆÉè1.0/detection_information/2025_3_26.pdf
+[2025-03-26 14:28:18.282] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_150838.jpg
+[2025-03-26 14:28:18.285] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 14:28:20.016] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 14:28:25.203] YOLO¼ì²âÍê³É£¬ºÄÊ± 1.3853 Ãë£¬¼ì²âµ½ 51 ¸ö¶ÔÏó
+[2025-03-26 14:28:25.391] ÏÔÊ¾YOLO¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:28:26.723] ¿ªÊ¼Ö´ĞĞ¹Ø¼üµã¼ì²â...
+[2025-03-26 14:28:37.221] ¹Ø¼üµã¼ì²âÍê³É£¬ºÄÊ± 8.7138 Ãë
+[2025-03-26 14:28:37.379] ÏÔÊ¾¹Ø¼üµã¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:28:38.037] ¿ªÊ¼Ö´ĞĞPointRend¼ì²â...
+[2025-03-26 14:29:03.242] PointRend¼ì²âÍê³É£¬ºÄÊ± 22.4185 Ãë
+[2025-03-26 14:29:03.405] ÏÔÊ¾PointRend¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:29:23.097] ¼ì²âĞÅÏ¢ÒÑ±£´æµ½ C:/Users/86151/Desktop/¼ÆÉè1.0/detection_information/1111.pdf
+[2025-03-26 14:33:41.284] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/IMG_20231201_151000.jpg
+[2025-03-26 14:33:41.289] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
+[2025-03-26 14:33:42.201] ¿ªÊ¼Ö´ĞĞYOLO¼ì²â...
+[2025-03-26 14:33:46.778] YOLO¼ì²âÍê³É£¬ºÄÊ± 1.2110 Ãë£¬¼ì²âµ½ 53 ¸ö¶ÔÏó
+[2025-03-26 14:33:46.937] ÏÔÊ¾YOLO¼ì²â½á¹ûÍ¼Ïñ
+[2025-03-26 14:33:55.405] ¼ì²âĞÅÏ¢ÒÑ±£´æµ½ C:/Users/86151/Desktop/¼ÆÉè1.0/test_images/11.pdf
+[2025-03-26 15:10:42.465] ¼ÓÔØÁËÍ¼Æ¬: C:/Users/86151/Desktop/¼ÆÉè1.0/temp_IMG_20231201_151000.jpg
+[2025-03-26 15:10:42.469] Çëµã»÷ÏàÓ¦µÄ¼ì²â°´Å¥Ö´ĞĞ¼ì²â
