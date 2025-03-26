@@ -50,6 +50,8 @@ import warnings
 from PIL import Image
 import math
 from PyQt5.QtCore import Qt, QSize, QPoint, QRect, QObject, QThread, pyqtSignal, QPointF, QTimer
+import fitz  # PyMuPDF
+import io
 
 # 添加项目目录到Python路径
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -2090,90 +2092,242 @@ class MyApp(QtWidgets.QMainWindow):
 
     def _save_as_pdf(self, file_name):
         """将检测信息保存为PDF格式"""
-        from reportlab.pdfbase import pdfmetrics
-        from reportlab.pdfbase.ttfonts import TTFont
-        from PIL import Image as PILImage
+        import fitz  # PyMuPDF
+        import datetime
         import os
+        from PIL import Image
+        import io
 
-        # 使用系统中文字体
-        try:
-            # Windows常用中文字体路径
-            font_path = "C:/Windows/Fonts/simhei.ttf"  # 黑体
-            pdfmetrics.registerFont(TTFont('SimHei', font_path))
-            default_font = 'SimHei'
-            print(f"已注册中文字体: {font_path}")
-        except Exception as e:
-            print(f"注册中文字体失败: {str(e)}，将使用默认字体")
-            default_font = 'Helvetica'
+        # 创建新的PDF文档
+        doc = fitz.open()
+        
+        # 设置字体大小
+        title_size = 24      # 主标题
+        subtitle_size = 18   # 副标题
+        heading_size = 16    # 段落标题
+        normal_size = 11     # 正文
+        small_size = 9       # 表格内容
+        
+        # 设置页面边距
+        margin_left = 50
+        margin_right = 50
+        margin_top = 50
+        
+        # 添加第一页
+        page = doc.new_page()
+        
+        # 当前垂直位置
+        current_y = margin_top
+        
+        # 添加主标题（居中）
+        title_text = "检测报告"
+        title_width = fitz.get_text_length(title_text, fontname="china-s", fontsize=title_size)
+        title_x = (page.rect.width - title_width) / 2
+        page.insert_text(
+            (title_x, current_y),
+            title_text,
+            fontsize=title_size,
+            fontname="china-s"
+        )
+        current_y += title_size * 1.5
+        
+        # 添加分隔线
+        page.draw_line(
+            (margin_left, current_y),
+            (page.rect.width - margin_right, current_y)
+        )
+        current_y += 20
+        
+        # 添加基本信息表格
+        info_data = [
+            ["文件名", os.path.basename(self.imgName)],
+            ["检测时间", datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")],
+            ["检测状态", self.get_detection_status_summary()]
+        ]
+        
+        # 创建基本信息表格
+        table_width = page.rect.width - margin_left - margin_right
+        col1_width = table_width * 0.3
+        col2_width = table_width * 0.7
+        
+        for row in info_data:
+            # 添加表格标题（左列）
+            page.insert_text(
+                (margin_left, current_y),
+                row[0],
+                fontsize=normal_size,
+                fontname="china-s",
+                color=(0.4, 0.4, 0.4)  # 灰色
+            )
+            
+            # 添加表格内容（右列）
+            page.insert_text(
+                (margin_left + col1_width, current_y),
+                row[1],
+                fontsize=normal_size,
+                fontname="china-s"
+            )
+            current_y += normal_size * 1.8  # 行间距为字体大小的1.8倍
+        
+        current_y += 20  # 表格后的间距
 
-        # 创建自定义样式
-        from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
-        styles = getSampleStyleSheet()
-
-        # 复制并修改现有样式，添加中文字体支持
-        chinese_title = ParagraphStyle(name='ChineseTitle', parent=styles['Title'], fontName=default_font, leading=22)
-        chinese_heading = ParagraphStyle(name='ChineseHeading', parent=styles['Heading2'], fontName=default_font)
-        chinese_normal = ParagraphStyle(name='ChineseNormal', parent=styles['Normal'], fontName=default_font)
-
-        # 创建PDF文档
-        doc = SimpleDocTemplate(file_name, pagesize=A4)
-        elements = []
-
-        # 添加标题
-        title = Paragraph(f"检测报告 - {os.path.basename(self.imgName)}", chinese_title)
-        elements.append(title)
-        elements.append(Spacer(1, 12))
-
-        # 添加时间信息
-        current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        time_info = Paragraph(f"生成时间: {current_time}", chinese_normal)
-        elements.append(time_info)
-        elements.append(Spacer(1, 12))
-
-        def add_image_to_pdf(image_path, width=400, title=""):
-            """辅助函数：添加图像到PDF，包含错误处理和格式转换"""
+        def add_image_to_pdf(image_path, title):
+            """在PDF中添加图像和标题"""
+            nonlocal current_y, page
+            
             try:
                 if os.path.exists(image_path):
-                    # 使用PIL打开图像
-                    img = PILImage.open(image_path)
-                    # 如果图像是RGBA模式，转换为RGB
+                    # 检查是否需要新页面
+                    if current_y > page.rect.height - 100:
+                        page = doc.new_page()
+                        current_y = margin_top
+                    
+                    # 添加标题（居中）
+                    title_width = fitz.get_text_length(title, fontname="china-s", fontsize=heading_size)
+                    title_x = (page.rect.width - title_width) / 2
+                    page.insert_text(
+                        (title_x, current_y),
+                        title,
+                        fontsize=heading_size,
+                        fontname="china-s"
+                    )
+                    current_y += heading_size * 1.5
+                    
+                    # 打开并处理图像
+                    img = Image.open(image_path)
+                    
+                    # 如果是RGBA模式，转换为RGB
                     if img.mode == 'RGBA':
                         img = img.convert('RGB')
                     
-                    # 计算等比例缩放后的高度
-                    aspect_ratio = float(img.size[1]) / float(img.size[0])
-                    height = width * aspect_ratio
+                    # 将图像转换为字节流
+                    img_bytes = io.BytesIO()
+                    img.save(img_bytes, format='JPEG')
+                    img_bytes.seek(0)
                     
-                    # 添加标题
-                    if title:
-                        elements.append(Paragraph(title, chinese_heading))
+                    # 计算图像尺寸
+                    max_width = page.rect.width - margin_left - margin_right
+                    max_height = 400  # 最大图片高度
                     
-                    # 保存为临时文件
-                    temp_path = f"temp_{os.path.basename(image_path)}"
-                    img.save(temp_path, 'JPEG')
+                    # 计算缩放比例
+                    width_ratio = max_width / img.width
+                    height_ratio = max_height / img.height
+                    scale = min(width_ratio, height_ratio)
                     
-                    # 添加图像
-                    elements.append(Image(temp_path, width=width, height=height))
-                    elements.append(Spacer(1, 12))
+                    # 计算最终尺寸
+                    final_width = img.width * scale
+                    final_height = img.height * scale
                     
-                    # 删除临时文件
-                    try:
-                        os.remove(temp_path)
-                    except:
-                        pass
-                        
+                    # 插入图像（居中）
+                    x0 = margin_left + (max_width - final_width) / 2
+                    rect = fitz.Rect(x0, current_y, x0 + final_width, current_y + final_height)
+                    page.insert_image(rect, stream=img_bytes.getvalue())
+                    
+                    current_y += final_height + 30
                     return True
-                return False
             except Exception as e:
                 print(f"处理图像时出错 {image_path}: {str(e)}")
-                if title:
-                    elements.append(Paragraph(title, chinese_heading))
-                elements.append(Paragraph(f"无法加载图像: {str(e)}", chinese_normal))
-                elements.append(Spacer(1, 12))
+                page.insert_text(
+                    (margin_left, current_y),
+                    f"无法加载图像: {str(e)}",
+                    fontsize=normal_size,
+                    fontname="china-s",
+                    color=(1, 0, 0)  # 红色错误信息
+                )
+                current_y += normal_size * 1.5
                 return False
 
+        def add_table(title, headers, data):
+            """添加表格"""
+            nonlocal current_y, page
+            
+            # 检查是否需要新页面
+            if current_y > page.rect.height - 100:
+                page = doc.new_page()
+                current_y = margin_top
+            
+            # 添加表格标题（居中）
+            if title:
+                title_width = fitz.get_text_length(title, fontname="china-s", fontsize=heading_size)
+                title_x = (page.rect.width - title_width) / 2
+                page.insert_text(
+                    (title_x, current_y),
+                    title,
+                    fontsize=heading_size,
+                    fontname="china-s"
+                )
+                current_y += heading_size * 1.5
+            
+            # 计算列宽
+            table_width = page.rect.width - margin_left - margin_right
+            col_width = table_width / len(headers)
+            
+            # 添加表头背景
+            header_rect = fitz.Rect(
+                margin_left,
+                current_y - 5,
+                page.rect.width - margin_right,
+                current_y + normal_size + 5
+            )
+            page.draw_rect(header_rect, color=(0.9, 0.9, 0.9), fill=(0.9, 0.9, 0.9))
+            
+            # 添加表头
+            for i, header in enumerate(headers):
+                page.insert_text(
+                    (margin_left + i * col_width, current_y),
+                    header,
+                    fontsize=normal_size,
+                    fontname="china-s",
+                    color=(0.2, 0.2, 0.2)
+                )
+            current_y += normal_size * 1.5
+            
+            # 添加表头分隔线
+            page.draw_line(
+                (margin_left, current_y - 5),
+                (page.rect.width - margin_right, current_y - 5),
+                color=(0.5, 0.5, 0.5)
+            )
+            
+            # 添加数据行
+            for row in data:
+                # 检查是否需要新页面
+                if current_y > page.rect.height - 50:
+                    page = doc.new_page()
+                    current_y = margin_top
+                    
+                    # 在新页面重复表头
+                    for i, header in enumerate(headers):
+                        page.insert_text(
+                            (margin_left + i * col_width, current_y),
+                            header,
+                            fontsize=normal_size,
+                            fontname="china-s",
+                            color=(0.2, 0.2, 0.2)
+                        )
+                    current_y += normal_size * 1.5
+                
+                # 添加数据
+                for i, cell in enumerate(row):
+                    page.insert_text(
+                        (margin_left + i * col_width, current_y),
+                        str(cell),
+                        fontsize=small_size,
+                        fontname="china-s"
+                    )
+                current_y += small_size * 1.5
+                
+                # 添加行分隔线
+                page.draw_line(
+                    (margin_left, current_y - 5),
+                    (page.rect.width - margin_right, current_y - 5),
+                    color=(0.9, 0.9, 0.9)
+                )
+            
+            current_y += 20
+
         # 添加原始图像
-        add_image_to_pdf(self.imgName, title="原始图像:")
+        add_image_to_pdf(self.imgName, "原始图像")
 
         # 添加检测结果图像
         result_files = {
@@ -2183,113 +2337,80 @@ class MyApp(QtWidgets.QMainWindow):
         }
 
         for title, path in result_files.items():
-            add_image_to_pdf(path, title=title)
+            add_image_to_pdf(path, title)
 
         # 添加YOLO检测结果表格
         if hasattr(self, 'yolo_confs') and hasattr(self, 'yolo_components') and self.yolo_confs and self.yolo_components:
-            elements.append(Paragraph("YOLO检测结果:", chinese_heading))
-            elements.append(Spacer(1, 6))
-
-            # 创建表格数据
-            data = [["对象类型", "置信度", "边界框 (x1,y1,x2,y2)"]]
+            headers = ["对象类型", "置信度", "边界框"]
+            data = []
             for i, component in enumerate(self.yolo_components):
                 if i < len(self.yolo_confs):
                     obj_type = component[0]
                     bbox = component[1]
                     conf = self.yolo_confs[i]
-                    data.append([obj_type, conf, f"({bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]})"])
-
-            # 创建表格
-            if len(data) > 1:
-                table = Table(data)
-                table.setStyle(TableStyle([
-                    ('BACKGROUND', (0, 0), (-1, 0), colors.grey),
-                    ('TEXTCOLOR', (0, 0), (-1, 0), colors.whitesmoke),
-                    ('ALIGN', (0, 0), (-1, -1), 'CENTER'),
-                    ('FONTNAME', (0, 0), (-1, 0), default_font),
-                    ('FONTNAME', (0, 1), (-1, -1), default_font),
-                    ('BOTTOMPADDING', (0, 0), (-1, 0), 12),
-                    ('BACKGROUND', (0, 1), (-1, -1), colors.beige),
-                    ('GRID', (0, 0), (-1, -1), 1, colors.black)
-                ]))
-                elements.append(table)
-                elements.append(Spacer(1, 12))
-            else:
-                elements.append(Paragraph("没有YOLO检测结果", chinese_normal))
-                elements.append(Spacer(1, 12))
+                    data.append([obj_type, f"{float(conf):.3f}", f"({bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]})"])
+            if data:
+                add_table("YOLO检测结果", headers, data)
 
         # 添加关键点检测结果表格
         if hasattr(self, 'keypoint_info') and self.keypoint_info:
-            elements.append(Paragraph("人体关键点检测结果:", chinese_heading))
-            elements.append(Spacer(1, 6))
-
-            # 创建表格数据
-            data = [["关键点", "X坐标", "Y坐标", "置信度"]]
+            headers = ["关键点", "X坐标", "Y坐标", "置信度"]
+            data = []
             for i, item in enumerate(self.keypoint_info):
                 if i < len(self.keypoint_names):
                     x, y, conf = item
-                    data.append([self.keypoint_names[i], f"{x:.2f}", f"{y:.2f}", f"{conf:.2f}"])
+                    data.append([self.keypoint_names[i], f"{x:.2f}", f"{y:.2f}", f"{conf:.3f}"])
+            if data:
+                add_table("关键点检测结果", headers, data)
 
-            # 创建表格
-            if len(data) > 1:
-                table = Table(data)
-                table.setStyle(TableStyle([
-                    ('BACKGROUND', (0, 0), (-1, 0), colors.grey),
-                    ('TEXTCOLOR', (0, 0), (-1, 0), colors.whitesmoke),
-                    ('ALIGN', (0, 0), (-1, -1), 'CENTER'),
-                    ('FONTNAME', (0, 0), (-1, 0), default_font),
-                    ('FONTNAME', (0, 1), (-1, -1), default_font),
-                    ('BOTTOMPADDING', (0, 0), (-1, 0), 12),
-                    ('BACKGROUND', (0, 1), (-1, -1), colors.beige),
-                    ('GRID', (0, 0), (-1, -1), 1, colors.black)
-                ]))
-                elements.append(table)
-                elements.append(Spacer(1, 12))
-            else:
-                elements.append(Paragraph("没有关键点检测结果", chinese_normal))
-                elements.append(Spacer(1, 12))
+        # 添加检测时间信息
+        if current_y > page.rect.height - 100:
+            page = doc.new_page()
+            current_y = margin_top
 
-        # 添加执行时间信息
-        elements.append(Paragraph("检测耗时:", chinese_heading))
-        elements.append(Spacer(1, 6))
-        data = [["检测类型", "执行时间 (秒)"]]
-        has_time_data = False
-
+        headers = ["检测类型", "执行时间 (秒)"]
+        data = []
         if hasattr(self, 'yolo_time'):
-            data.append(["YOLO检测", f"{self.yolo_time:.4f}"])
-            has_time_data = True
-
+            data.append(["YOLO检测", f"{self.yolo_time:.3f}"])
         if hasattr(self, 'keypoint_time'):
-            data.append(["关键点检测", f"{self.keypoint_time:.4f}"])
-            has_time_data = True
-
+            data.append(["关键点检测", f"{self.keypoint_time:.3f}"])
         if hasattr(self, 'pointrend_time'):
-            data.append(["PointRend检测", f"{self.pointrend_time:.4f}"])
-            has_time_data = True
+            data.append(["PointRend检测", f"{self.pointrend_time:.3f}"])
+        if data:
+            add_table("检测耗时统计", headers, data)
 
-        if has_time_data:
-            table = Table(data)
-            table.setStyle(TableStyle([
-                ('BACKGROUND', (0, 0), (-1, 0), colors.grey),
-                ('TEXTCOLOR', (0, 0), (-1, 0), colors.whitesmoke),
-                ('ALIGN', (0, 0), (-1, -1), 'CENTER'),
-                ('FONTNAME', (0, 0), (-1, 0), default_font),
-                ('FONTNAME', (0, 1), (-1, -1), default_font),
-                ('BOTTOMPADDING', (0, 0), (-1, 0), 12),
-                ('BACKGROUND', (0, 1), (-1, -1), colors.beige),
-                ('GRID', (0, 0), (-1, -1), 1, colors.black)
-            ]))
-            elements.append(table)
-        else:
-            elements.append(Paragraph("未记录检测耗时信息", chinese_normal))
+        # 添加页脚
+        for page_num in range(doc.page_count):
+            page = doc[page_num]
+            # 添加页码（居中）
+            footer_text = f"第 {page_num + 1} 页，共 {doc.page_count} 页"
+            footer_width = fitz.get_text_length(footer_text, fontname="china-s", fontsize=small_size)
+            footer_x = (page.rect.width - footer_width) / 2
+            page.insert_text(
+                (footer_x, page.rect.height - 20),
+                footer_text,
+                fontsize=small_size,
+                fontname="china-s"
+            )
+            
+            # 添加生成时间（左对齐）
+            time_text = f"生成时间：{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+            page.insert_text(
+                (margin_left, page.rect.height - 20),
+                time_text,
+                fontsize=small_size,
+                fontname="china-s"
+            )
 
-        # 生成PDF
+        # 保存PDF
         try:
-            doc.build(elements)
+            doc.save(file_name)
             print(f"PDF文件已成功生成: {file_name}")
         except Exception as e:
-            print(f"生成PDF文件时出错: {str(e)}")
+            print(f"保存PDF文件时出错: {str(e)}")
             raise
+        finally:
+            doc.close()
 
     def _save_as_excel(self, file_name):
         """将检测信息保存为Excel格式"""
