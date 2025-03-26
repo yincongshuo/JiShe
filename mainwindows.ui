@@ -755,6 +755,36 @@ background-color: rgb(255, 255, 255);</string>
      <height>22</height>
     </rect>
    </property>
+   <property name="styleSheet">
+    <string notr="true">
+     QMenuBar {
+       background-color: #F7F7F7;
+       font: 10pt &quot;PingFang SC&quot;;
+     }
+     QMenuBar::item {
+       padding: 8px 12px;
+       margin: 2px 4px;
+     }
+     QMenuBar::item:selected {
+       background-color: #E0E0E0;
+       border-radius: 4px;
+     }
+     QMenu {
+       background-color: white;
+       border: 1px solid #E0E0E0;
+       border-radius: 6px;
+       padding: 8px 0px;
+     }
+     QMenu::item {
+       padding: 8px 24px;
+       margin: 2px 6px;
+       border-radius: 4px;
+     }
+     QMenu::item:selected {
+       background-color: #F0F0F0;
+     }
+    </string>
+   </property>
    <widget class="QMenu" name="menu">
     <property name="title">
      <string>文件</string>
