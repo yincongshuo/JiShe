@@ -13,6 +13,40 @@ class BaseLog(QtWidgets.QMainWindow):
         self.init_image_viewer_and_controls()
         self.init_signal_slots()
         self.init_animations()
+        self.init_log_styles()
+
+    def init_log_styles(self):
+        """初始化日志样式"""
+        self.log_formats = {
+            'INFO': QTextCharFormat(),
+            'WARNING': QTextCharFormat(),
+            'ERROR': QTextCharFormat()
+        }
+        
+        # 普通日志样式 - 黑色
+        self.log_formats['INFO'].setForeground(QtGui.QColor('#2C3E50'))
+        
+        # 警告日志样式 - 橙色
+        self.log_formats['WARNING'].setForeground(QtGui.QColor('#F39C12'))
+        self.log_formats['WARNING'].setFontWeight(QtGui.QFont.Bold)
+        
+        # 错误日志样式 - 红色
+        self.log_formats['ERROR'].setForeground(QtGui.QColor('#E74C3C'))
+        self.log_formats['ERROR'].setFontWeight(QtGui.QFont.Bold)
+
+    def format_log_text(self, text):
+        """根据日志类型设置不同的颜色"""
+        cursor = self.logArea.textCursor()
+        lines = text.split('\n')
+        
+        for line in lines:
+            if line.strip():
+                if '[ERROR]' in line:
+                    cursor.insertText(line + '\n', self.log_formats['ERROR'])
+                elif '[WARNING]' in line:
+                    cursor.insertText(line + '\n', self.log_formats['WARNING'])
+                else:
+                    cursor.insertText(line + '\n', self.log_formats['INFO'])
 
     def show_log(self):
         """显示日志内容"""
@@ -20,10 +54,12 @@ class BaseLog(QtWidgets.QMainWindow):
         try:
             with open(filenames, 'r') as f:
                 log_data = f.read()
-                self.logArea.setText(log_data)
+                self.logArea.clear()  # 清空现有内容
+                self.format_log_text(log_data)
             self.show()
         except FileNotFoundError:
-            self.logArea.setText("日志文件未找到。")
+            self.logArea.clear()
+            self.format_log_text("[WARNING] 日志文件未找到。")
             self.show()
 
     def init_image_viewer_and_controls(self):
@@ -112,67 +148,64 @@ class BaseLog(QtWidgets.QMainWindow):
             except Exception as e:
                 print(f"导出日志时发生错误: {e}")
 
+    def add_log(self, message, level='INFO'):
+        """添加日志，可以指定日志级别"""
+        timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        log_message = f"[{level}] [{timestamp}] {message}"
+        cursor = self.logArea.textCursor()
+        cursor.movePosition(QtGui.QTextCursor.End)
+        self.logArea.setTextCursor(cursor)
+        self.format_log_text(log_message)
+
 class ErrorLog(BaseLog):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Error Log")
-        self.logArea.setStyleSheet("background-color: lightpink;")
-
-    def saveLog(self):
-        """覆盖 BaseLog 类中的保存方法，指定默认日志级别为 ERROR"""
-        log_data = f"[ERROR] {self.logArea.toPlainText()}"
-        try:
-            with open('log.txt', 'w') as f:
-                f.write(log_data)
-        except Exception as e:
-            print(f"保存日志时发生错误: {e}")
+        self.setWindowTitle("错误日志")
+        self.logArea.setStyleSheet("""
+            QTextEdit {
+                font: 12pt "PingFang SC";
+                border: 1px solid #E74C3C;
+                border-radius: 18px;
+                background-color: #FFFFFF;
+                padding: 12px;
+            }
+        """)
 
 class WarningLog(BaseLog):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Warning Log")
-        self.logArea.setStyleSheet("background-color: lightyellow;")
-
-    def saveLog(self):
-        """覆盖 BaseLog 类中的保存方法，指定默认日志级别为 WARNING"""
-        log_data = f"[WARNING] {self.logArea.toPlainText()}"
-        try:
-            with open('log.txt', 'w') as f:
-                f.write(log_data)
-        except Exception as e:
-            print(f"保存日志时发生错误: {e}")
+        self.setWindowTitle("警告日志")
+        self.logArea.setStyleSheet("""
+            QTextEdit {
+                font: 12pt "PingFang SC";
+                border: 1px solid #F39C12;
+                border-radius: 18px;
+                background-color: #FFFFFF;
+                padding: 12px;
+            }
+        """)
 
 class InfoLog(BaseLog):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Info Log")
-
-    def saveLog(self):
-        """覆盖 BaseLog 类中的保存方法，指定默认日志级别为 INFO"""
-        log_data = f"[INFO] {self.logArea.toPlainText()}"
-        try:
-            with open('log.txt', 'w') as f:
-                f.write(log_data)
-        except Exception as e:
-            print(f"保存日志时发生错误: {e}")
+        self.setWindowTitle("信息日志")
+        self.logArea.setStyleSheet("""
+            QTextEdit {
+                font: 12pt "PingFang SC";
+                border: 1px solid #2C3E50;
+                border-radius: 18px;
+                background-color: #FFFFFF;
+                padding: 12px;
+            }
+        """)
 
 def save_log(log_content):
-    logs_folder = 'logs'
-
-    if not os.path.exists(logs_folder):
-        os.makedirs(logs_folder)
-
-    now = datetime.now()
-    timestamp = now.strftime('%Y-%m-%d_%H-%M-%S')
-
-    destination_file = os.path.join(logs_folder, f'{timestamp}.txt')
-
-    print(f"日志内容: {log_content}")
-
-    with open(destination_file, 'w') as f:
-        f.write(log_content)
-
-    print(f'日志已保存到 {destination_file}')
+    """保存日志到文件"""
+    try:
+        with open('log.txt', 'w') as f:
+            f.write(log_content)
+    except Exception as e:
+        print(f"[ERROR] 保存日志时出错: {e}")
 
 
 

@@ -782,9 +782,19 @@ background-color: rgb(255, 255, 255);</string>
        padding: 8px 24px;
        margin: 2px 6px;
        border-radius: 4px;
+       max-width: 300px;
+       text-overflow: ellipsis;
      }
      QMenu::item:selected {
        background-color: #E8E8E8;
+     }
+     QMenu::tooltip {
+       font: 10pt &quot;PingFang SC&quot;;
+       color: #333333;
+       background-color: #FFFFFF;
+       border: 1px solid #CCCCCC;
+       border-radius: 4px;
+       padding: 4px 8px;
      }
     </string>
    </property>
@@ -825,7 +835,7 @@ background-color: rgb(255, 255, 255);</string>
     <string>导入</string>
    </property>
    <property name="toolTip">
-    <string>导入</string>
+    <string>导入文件</string>
    </property>
   </action>
   <action name="Export">
@@ -833,7 +843,7 @@ background-color: rgb(255, 255, 255);</string>
     <string>导出</string>
    </property>
    <property name="toolTip">
-    <string>导出</string>
+    <string>导出文件</string>
    </property>
   </action>
   <action name="Save">
@@ -841,7 +851,7 @@ background-color: rgb(255, 255, 255);</string>
     <string>保存</string>
    </property>
    <property name="toolTip">
-    <string>保存</string>
+    <string>保存当前文件</string>
    </property>
    <property name="shortcut">
     <string>Ctrl+S</string>
@@ -852,7 +862,7 @@ background-color: rgb(255, 255, 255);</string>
     <string>保存检测信息</string>
    </property>
    <property name="toolTip">
-    <string>保存检测信息到文件</string>
+    <string>将当前检测结果保存到文件</string>
    </property>
   </action>
   <action name="log">
@@ -860,7 +870,7 @@ background-color: rgb(255, 255, 255);</string>
     <string>查看</string>
    </property>
    <property name="toolTip">
-    <string>查看</string>
+    <string>查看日志文件内容</string>
    </property>
   </action>
   <action name="log_clear">
@@ -868,7 +878,7 @@ background-color: rgb(255, 255, 255);</string>
     <string>清空</string>
    </property>
    <property name="toolTip">
-    <string>清空</string>
+    <string>清空日志文件内容</string>
    </property>
   </action>
   <action name="exception">
@@ -880,30 +890,48 @@ background-color: rgb(255, 255, 255);</string>
    <property name="text">
     <string>批注模式</string>
    </property>
+   <property name="toolTip">
+    <string>进入批注编辑模式</string>
+   </property>
   </action>
   <action name="exitAnnotationButtons">
    <property name="text">
     <string>结束批注</string>
+   </property>
+   <property name="toolTip">
+    <string>退出批注编辑模式</string>
    </property>
   </action>
   <action name="saveAnnotationButtons">
    <property name="text">
     <string>保存批注</string>
    </property>
+   <property name="toolTip">
+    <string>保存当前批注内容</string>
+   </property>
   </action>
   <action name="loadAnnotationButtons">
    <property name="text">
     <string>加载批注</string>
+   </property>
+   <property name="toolTip">
+    <string>从文件加载批注内容</string>
    </property>
   </action>
   <action name="clearAnnotationButtons">
    <property name="text">
     <string>清除批注</string>
    </property>
+   <property name="toolTip">
+    <string>清除当前所有批注</string>
+   </property>
   </action>
   <action name="convertImageFormatButtons">
    <property name="text">
     <string>转换图片格式</string>
+   </property>
+   <property name="toolTip">
+    <string>转换当前图片的文件格式</string>
    </property>
   </action>
   <action name="startDrawingLineButton">
