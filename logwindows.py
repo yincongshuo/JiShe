@@ -52,14 +52,25 @@ class BaseLog(QtWidgets.QMainWindow):
         """显示日志内容"""
         filenames = 'log.txt'
         try:
-            with open(filenames, 'r') as f:
-                log_data = f.read()
-                self.logArea.clear()  # 清空现有内容
-                self.format_log_text(log_data)
+            # 首先尝试UTF-8编码
+            try:
+                with open(filenames, 'r', encoding='utf-8') as f:
+                    log_data = f.read()
+            except UnicodeDecodeError:
+                # 如果UTF-8失败，尝试GBK编码
+                with open(filenames, 'r', encoding='gbk') as f:
+                    log_data = f.read()
+            
+            self.logArea.clear()  # 清空现有内容
+            self.format_log_text(log_data)
             self.show()
         except FileNotFoundError:
             self.logArea.clear()
             self.format_log_text("[WARNING] 日志文件未找到。")
+            self.show()
+        except Exception as e:
+            self.logArea.clear()
+            self.format_log_text(f"[ERROR] 读取日志文件时发生错误: {str(e)}")
             self.show()
 
     def init_image_viewer_and_controls(self):
@@ -129,11 +140,11 @@ class BaseLog(QtWidgets.QMainWindow):
     def saveLog(self):
         """保存当前日志内容到文件"""
         try:
-            with open('log.txt', 'w') as f:
+            with open('log.txt', 'w', encoding='gbk') as f:
                 log_data = self.logArea.toPlainText()
                 f.write(log_data)
         except Exception as e:
-            print(f"保存日志时发生错误: {e}")
+            self.format_log_text(f"[ERROR] 保存日志时发生错误: {str(e)}")
 
     def exportLog(self):
         """导出日志内容到指定文件"""
@@ -142,11 +153,11 @@ class BaseLog(QtWidgets.QMainWindow):
                                                   options=options)
         if filename:
             try:
-                with open(filename, 'w') as f:
+                with open(filename, 'w', encoding='gbk') as f:
                     log_data = self.logArea.toPlainText()
                     f.write(log_data)
             except Exception as e:
-                print(f"导出日志时发生错误: {e}")
+                self.format_log_text(f"[ERROR] 导出日志时发生错误: {str(e)}")
 
     def add_log(self, message, level='INFO'):
         """添加日志，可以指定日志级别"""
@@ -202,7 +213,7 @@ class InfoLog(BaseLog):
 def save_log(log_content):
     """保存日志到文件"""
     try:
-        with open('log.txt', 'w') as f:
+        with open('log.txt', 'w', encoding='gbk') as f:
             f.write(log_content)
     except Exception as e:
         print(f"[ERROR] 保存日志时出错: {e}")

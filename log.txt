@@ -1156,3 +1156,5 @@ ModuleNotFoundError: No module named 'yolov5.detect'
 [2025-03-26 22:25:17.699] PointRend检测完成，耗时 11.8404 秒
 [2025-03-26 22:25:17.803] 显示PointRend检测结果图像
 [2025-03-26 22:25:44.303] 检测信息已保存到 C:/Users/86151/Desktop/计设1.0/test_images/1111.pdf
+[2025-03-26 22:39:54.144] 加载了图片: C:/Users/86151/Desktop/计设1.0/test_images/IMG20241018153211.jpg
+[2025-03-26 22:39:54.146] 请点击相应的检测按钮执行检测
