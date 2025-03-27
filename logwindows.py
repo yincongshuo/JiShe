@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import QMainWindow, QFileDialog, QLineEdit, QTextEdit, QPus
 from PyQt5.QtCore import Qt, QPropertyAnimation, QEasingCurve, QRegularExpression
 from PyQt5.QtGui import QTextCharFormat, QTextCursor
 from datetime import datetime
+import chardet
 
 class BaseLog(QtWidgets.QMainWindow):
     def __init__(self):
@@ -23,15 +24,24 @@ class BaseLog(QtWidgets.QMainWindow):
             'ERROR': QTextCharFormat()
         }
         
+        # 设置中文字体
+        font = QtGui.QFont()
+        # 设置多个备选字体，确保至少一个可用
+        font.setFamilies(['Microsoft YaHei', 'SimHei', 'SimSun', 'PingFang SC'])
+        font.setPointSize(10)  # 设置合适的字体大小
+        
         # 普通日志样式 - 黑色
         self.log_formats['INFO'].setForeground(QtGui.QColor('#2C3E50'))
+        self.log_formats['INFO'].setFont(font)
         
         # 警告日志样式 - 橙色
         self.log_formats['WARNING'].setForeground(QtGui.QColor('#F39C12'))
+        self.log_formats['WARNING'].setFont(font)
         self.log_formats['WARNING'].setFontWeight(QtGui.QFont.Bold)
         
         # 错误日志样式 - 红色
         self.log_formats['ERROR'].setForeground(QtGui.QColor('#E74C3C'))
+        self.log_formats['ERROR'].setFont(font)
         self.log_formats['ERROR'].setFontWeight(QtGui.QFont.Bold)
 
     def format_log_text(self, text):
@@ -52,25 +62,63 @@ class BaseLog(QtWidgets.QMainWindow):
         """显示日志内容"""
         filenames = 'log.txt'
         try:
-            # 首先尝试UTF-8编码
+            if not os.path.exists(filenames):
+                self.logArea.clear()
+                self.format_log_text("[WARNING] 日志文件未找到。")
+                self.show()
+                return
+
+            # 读取文件内容
             try:
-                with open(filenames, 'r', encoding='utf-8') as f:
+                # 首先尝试使用UTF-8-SIG（带BOM）读取
+                with open(filenames, 'r', encoding='utf-8-sig') as f:
                     log_data = f.read()
-            except UnicodeDecodeError:
-                # 如果UTF-8失败，尝试GBK编码
-                with open(filenames, 'r', encoding='gbk') as f:
-                    log_data = f.read()
+            except UnicodeError:
+                try:
+                    # 如果失败，尝试使用普通UTF-8读取
+                    with open(filenames, 'r', encoding='utf-8') as f:
+                        log_data = f.read()
+                except UnicodeError:
+                    try:
+                        # 如果还是失败，尝试使用系统默认编码
+                        with open(filenames, 'r') as f:
+                            log_data = f.read()
+                    except UnicodeError:
+                        # 如果所有尝试都失败，使用二进制模式读取并尝试解码
+                        with open(filenames, 'rb') as f:
+                            raw_data = f.read()
+                            # 使用chardet检测编码
+                            result = chardet.detect(raw_data)
+                            if result['encoding'] and result['confidence'] > 0.5:
+                                try:
+                                    log_data = raw_data.decode(result['encoding'])
+                                except:
+                                    # 如果还是失败，尝试忽略错误字符
+                                    log_data = raw_data.decode('utf-8', errors='ignore')
+                            else:
+                                # 如果检测失败，使用UTF-8并忽略错误
+                                log_data = raw_data.decode('utf-8', errors='ignore')
             
             self.logArea.clear()  # 清空现有内容
             self.format_log_text(log_data)
+            
+            # 将光标移动到文档末尾
+            cursor = self.logArea.textCursor()
+            cursor.movePosition(QtGui.QTextCursor.End)
+            self.logArea.setTextCursor(cursor)
+            
+            # 确保滚动到最底部
+            self.logArea.verticalScrollBar().setValue(
+                self.logArea.verticalScrollBar().maximum()
+            )
+            
             self.show()
-        except FileNotFoundError:
-            self.logArea.clear()
-            self.format_log_text("[WARNING] 日志文件未找到。")
-            self.show()
+            
         except Exception as e:
+            error_msg = f"[ERROR] 读取日志文件时发生错误: {str(e)}"
+            print(error_msg)
             self.logArea.clear()
-            self.format_log_text(f"[ERROR] 读取日志文件时发生错误: {str(e)}")
+            self.format_log_text(error_msg)
             self.show()
 
     def init_image_viewer_and_controls(self):
@@ -140,11 +188,14 @@ class BaseLog(QtWidgets.QMainWindow):
     def saveLog(self):
         """保存当前日志内容到文件"""
         try:
-            with open('log.txt', 'w', encoding='gbk') as f:
+            # 保存时统一使用UTF-8-SIG编码（带BOM）
+            with open('log.txt', 'w', encoding='utf-8-sig') as f:
                 log_data = self.logArea.toPlainText()
                 f.write(log_data)
         except Exception as e:
-            self.format_log_text(f"[ERROR] 保存日志时发生错误: {str(e)}")
+            error_msg = f"[ERROR] 保存日志时发生错误: {str(e)}"
+            print(error_msg)
+            self.format_log_text(error_msg)
 
     def exportLog(self):
         """导出日志内容到指定文件"""
@@ -153,11 +204,14 @@ class BaseLog(QtWidgets.QMainWindow):
                                                   options=options)
         if filename:
             try:
-                with open(filename, 'w', encoding='gbk') as f:
+                # 导出时也使用UTF-8-SIG编码（带BOM）
+                with open(filename, 'w', encoding='utf-8-sig') as f:
                     log_data = self.logArea.toPlainText()
                     f.write(log_data)
             except Exception as e:
-                self.format_log_text(f"[ERROR] 导出日志时发生错误: {str(e)}")
+                error_msg = f"[ERROR] 导出日志时发生错误: {str(e)}"
+                print(error_msg)
+                self.format_log_text(error_msg)
 
     def add_log(self, message, level='INFO'):
         """添加日志，可以指定日志级别"""
@@ -174,7 +228,8 @@ class ErrorLog(BaseLog):
         self.setWindowTitle("错误日志")
         self.logArea.setStyleSheet("""
             QTextEdit {
-                font: 12pt "PingFang SC";
+                font-family: "Microsoft YaHei", "SimHei", "SimSun";
+                font-size: 12pt;
                 border: 1px solid #E74C3C;
                 border-radius: 18px;
                 background-color: #FFFFFF;
@@ -188,7 +243,8 @@ class WarningLog(BaseLog):
         self.setWindowTitle("警告日志")
         self.logArea.setStyleSheet("""
             QTextEdit {
-                font: 12pt "PingFang SC";
+                font-family: "Microsoft YaHei", "SimHei", "SimSun";
+                font-size: 12pt;
                 border: 1px solid #F39C12;
                 border-radius: 18px;
                 background-color: #FFFFFF;
@@ -202,7 +258,8 @@ class InfoLog(BaseLog):
         self.setWindowTitle("信息日志")
         self.logArea.setStyleSheet("""
             QTextEdit {
-                font: 12pt "PingFang SC";
+                font-family: "Microsoft YaHei", "SimHei", "SimSun";
+                font-size: 12pt;
                 border: 1px solid #2C3E50;
                 border-radius: 18px;
                 background-color: #FFFFFF;

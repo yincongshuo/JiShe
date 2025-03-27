@@ -6,7 +6,7 @@ from PyQt5 import QtWidgets, uic, QtCore
 from PyQt5.QtGui import QPixmap, QTransform, QTextCharFormat, QTextCursor, QPolygonF
 from PyQt5.QtWidgets import QMainWindow, QTextEdit, QFileDialog, QWidget, QApplication, QDialog, QLabel, QVBoxLayout, \
     QPushButton, QHBoxLayout, QComboBox, QLineEdit, QScrollArea, QMessageBox, QFileSystemModel, QTreeView, QInputDialog, \
-    QMenu, QSizePolicy
+    QMenu, QSizePolicy, QProgressDialog
 from PyQt5.QtCore import Qt, QSize, QDateTime, QRegularExpression, QModelIndex, QPoint, QRect, QRectF, QLineF
 from PyQt5.QtGui import QPixmap, QTransform, QIcon
 from PyQt5.QtCore import pyqtSignal, QDir, QModelIndex, QThread, QObject
@@ -84,6 +84,7 @@ class DetectionWorker(QObject):
     finished = Signal(tuple)  # 信号：传递检测结果
     error = Signal(str)  # 信号：传递错误消息
     progress = Signal(str)  # 信号：传递进度信息
+    progress_value = Signal(int)  # 信号：传递进度值(0-100)
 
     def __init__(self, detection_type, img_name):
         super().__init__()
@@ -102,6 +103,7 @@ class DetectionWorker(QObject):
         try:
             print(f"开始执行{self.detection_type}检测...")
             self.progress.emit(f"开始执行{self.detection_type}检测...")
+            self.progress_value.emit(10)
             
             # 删除之前的检测结果，确保每次执行都是全新的检测
             result_files = {
@@ -117,6 +119,7 @@ class DetectionWorker(QObject):
                         os.remove(result_file)
                         print(f"已删除旧的{self.detection_type}检测结果: {result_file}")
                         self.progress.emit(f"已删除旧的检测结果")
+                        self.progress_value.emit(20)
                     except Exception as e:
                         print(f"删除旧的检测结果文件时出错: {e}")
                         self.progress.emit(f"删除旧文件时出错: {e}")
@@ -126,36 +129,45 @@ class DetectionWorker(QObject):
                 # 在运行时导入模块
                 print("导入yolo_detect模块...")
                 self.progress.emit("导入YOLO检测模块...")
+                self.progress_value.emit(30)
                 from yolov5.detect import yolo_detect
                 print(f"开始调用yolo_detect, 图片路径: {self.img_name}")
                 self.progress.emit("执行YOLO检测中...")
+                self.progress_value.emit(50)
                 confs, components, time_elapsed = yolo_detect(self.img_name)
                 print(f"yolo_detect执行完成, 耗时: {time_elapsed:.4f}秒")
                 self.progress.emit(f"YOLO检测完成，耗时: {time_elapsed:.4f}秒")
+                self.progress_value.emit(100)
                 self.finished.emit(('yolo', confs, components, time_elapsed))
 
             elif self.detection_type == 'keypoint':
                 # 在运行时导入模块
                 print("导入keypoint_detect模块...")
                 self.progress.emit("导入关键点检测模块...")
+                self.progress_value.emit(30)
                 from detectron.detect import keypoint_detect
                 print(f"开始调用keypoint_detect, 图片路径: {self.img_name}")
                 self.progress.emit("执行关键点检测中...")
+                self.progress_value.emit(50)
                 keypoint_info, time_elapsed, keypoint_confinfo, line_box = keypoint_detect(self.img_name)
                 print(f"keypoint_detect执行完成, 耗时: {time_elapsed:.4f}秒")
                 self.progress.emit(f"关键点检测完成，耗时: {time_elapsed:.4f}秒")
+                self.progress_value.emit(100)
                 self.finished.emit(('keypoint', keypoint_info, time_elapsed, keypoint_confinfo, line_box))
 
             elif self.detection_type == 'pointrend':
                 # 在运行时导入模块
                 print("导入pointrend_detect模块...")
                 self.progress.emit("导入PointRend检测模块...")
+                self.progress_value.emit(30)
                 from detectron.projects.PointRend.detect import pointrend_detect
                 print(f"开始调用pointrend_detect, 图片路径: {self.img_name}")
                 self.progress.emit("执行PointRend检测中...")
+                self.progress_value.emit(50)
                 predictions, t = pointrend_detect(self.img_name)
                 print(f"pointrend_detect执行完成, 耗时: {t:.4f}秒")
                 self.progress.emit(f"PointRend检测完成，耗时: {t:.4f}秒")
+                self.progress_value.emit(100)
                 self.finished.emit(('pointrend', predictions, t))
 
         except Exception as e:
@@ -1450,12 +1462,27 @@ class MyApp(QtWidgets.QMainWindow):
 
     def add_log(self, message):
         """向日志区域添加一条新的日志信息。"""
-        timestamp = QDateTime.currentDateTime().toString("yyyy-MM-dd HH:mm:ss.zzz")
-        formatted_message = f"[{timestamp}] {message}\n"
-        self.logArea.append(formatted_message)
-        with open('log.txt', 'a') as file:
-            file.write(formatted_message)
-            file.close()
+        try:
+            timestamp = QDateTime.currentDateTime().toString("yyyy-MM-dd HH:mm:ss.zzz")
+            formatted_message = f"[{timestamp}] {message}\n"
+            self.logArea.append(formatted_message)
+            
+            # 如果文件不存在，创建新文件并写入UTF-8 BOM
+            if not os.path.exists('log.txt'):
+                with open('log.txt', 'wb') as file:
+                    file.write(b'\xef\xbb\xbf')  # 写入UTF-8 BOM
+            
+            # 追加内容，使用UTF-8编码
+            with open('log.txt', 'a', encoding='utf-8') as file:
+                file.write(formatted_message)
+        except Exception as e:
+            print(f"写入日志时出错: {str(e)}")
+            # 如果写入失败，尝试使用二进制模式写入
+            try:
+                with open('log.txt', 'ab') as file:
+                    file.write(formatted_message.encode('utf-8'))
+            except Exception as e2:
+                print(f"二进制写入日志也失败: {str(e2)}")
 
     def searchLog(self, text):
         """在日志区域中搜索并高亮显示文本"""
@@ -1511,7 +1538,14 @@ class MyApp(QtWidgets.QMainWindow):
 
             print(f"准备YOLO检测图片: {self.imgName}")
             self.add_log("开始执行YOLO检测...")
-            self.statusbar.showMessage("正在执行YOLO检测...")
+
+            # 创建进度对话框
+            self.progress_dialog = QProgressDialog("正在执行YOLO检测...", "取消", 0, 100, self)
+            self.progress_dialog.setWindowTitle("检测进度")
+            self.progress_dialog.setWindowModality(Qt.WindowModal)
+            self.progress_dialog.setMinimumDuration(0)  # 立即显示
+            self.progress_dialog.setAutoClose(True)
+            self.progress_dialog.setAutoReset(True)
 
             # 创建线程和工作对象
             self.detection_thread = QThread()
@@ -1524,9 +1558,11 @@ class MyApp(QtWidgets.QMainWindow):
             self.detection_worker.finished.connect(self.handle_detection_result)
             self.detection_worker.error.connect(self.handle_detection_error)
             self.detection_worker.progress.connect(lambda msg: self.statusbar.showMessage(msg))
+            self.detection_worker.progress_value.connect(self.progress_dialog.setValue)
             self.detection_worker.finished.connect(self.detection_thread.quit)
             self.detection_worker.finished.connect(self.detection_worker.deleteLater)
             self.detection_thread.finished.connect(self.detection_thread.deleteLater)
+            self.detection_thread.finished.connect(self.progress_dialog.close)
 
             # 启动线程
             print("启动YOLO检测线程...")
@@ -1697,7 +1733,14 @@ class MyApp(QtWidgets.QMainWindow):
 
             print(f"准备关键点检测图片: {self.imgName}")
             self.add_log("开始执行关键点检测...")
-            self.statusbar.showMessage("正在执行关键点检测...")
+
+            # 创建进度对话框
+            self.progress_dialog = QProgressDialog("正在执行关键点检测...", "取消", 0, 100, self)
+            self.progress_dialog.setWindowTitle("检测进度")
+            self.progress_dialog.setWindowModality(Qt.WindowModal)
+            self.progress_dialog.setMinimumDuration(0)  # 立即显示
+            self.progress_dialog.setAutoClose(True)
+            self.progress_dialog.setAutoReset(True)
 
             # 创建线程和工作对象
             self.detection_thread = QThread()
@@ -1709,9 +1752,11 @@ class MyApp(QtWidgets.QMainWindow):
             self.detection_worker.finished.connect(self.handle_detection_result)
             self.detection_worker.error.connect(self.handle_detection_error)
             self.detection_worker.progress.connect(lambda msg: self.statusbar.showMessage(msg))
+            self.detection_worker.progress_value.connect(self.progress_dialog.setValue)
             self.detection_worker.finished.connect(self.detection_thread.quit)
             self.detection_worker.finished.connect(self.detection_worker.deleteLater)
             self.detection_thread.finished.connect(self.detection_thread.deleteLater)
+            self.detection_thread.finished.connect(self.progress_dialog.close)
 
             # 启动线程
             print("启动关键点检测线程...")
@@ -1746,7 +1791,14 @@ class MyApp(QtWidgets.QMainWindow):
 
             print(f"准备PointRend检测图片: {self.imgName}")
             self.add_log("开始执行PointRend检测...")
-            self.statusbar.showMessage("正在执行PointRend检测...")
+
+            # 创建进度对话框
+            self.progress_dialog = QProgressDialog("正在执行PointRend检测...", "取消", 0, 100, self)
+            self.progress_dialog.setWindowTitle("检测进度")
+            self.progress_dialog.setWindowModality(Qt.WindowModal)
+            self.progress_dialog.setMinimumDuration(0)  # 立即显示
+            self.progress_dialog.setAutoClose(True)
+            self.progress_dialog.setAutoReset(True)
 
             # 创建线程和工作对象
             self.detection_thread = QThread()
@@ -1758,9 +1810,11 @@ class MyApp(QtWidgets.QMainWindow):
             self.detection_worker.finished.connect(self.handle_detection_result)
             self.detection_worker.error.connect(self.handle_detection_error)
             self.detection_worker.progress.connect(lambda msg: self.statusbar.showMessage(msg))
+            self.detection_worker.progress_value.connect(self.progress_dialog.setValue)
             self.detection_worker.finished.connect(self.detection_thread.quit)
             self.detection_worker.finished.connect(self.detection_worker.deleteLater)
             self.detection_thread.finished.connect(self.detection_thread.deleteLater)
+            self.detection_thread.finished.connect(self.progress_dialog.close)
 
             # 启动线程
             print("启动PointRend检测线程...")
@@ -3281,4 +3335,3 @@ class ImageAnnotator(QGraphicsView):
         self.scene.clear()
         self.annotations = []
         print("Clear Image")
-
