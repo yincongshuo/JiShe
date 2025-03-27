@@ -22,6 +22,7 @@ from PyQt5.QtGui import QPainterPath, QPen
 from PyQt5.QtCore import QPointF, Qt
 import json
 import logwindows
+from logwindows import BaseLog
 import pandas as pd
 from reportlab.lib.pagesizes import letter, A4
 from reportlab.platypus import SimpleDocTemplate, Table, TableStyle, Paragraph, Spacer, Image
@@ -239,6 +240,11 @@ class MyApp(QtWidgets.QMainWindow):
 
         # 检测线程
         self.detection_thread = None
+        
+        # 创建日志窗口实例
+        self.log_window = BaseLog()
+        # 连接日志显示信号
+        self.showlogSignal.connect(self.log_window.show_log)
 
     def mousePressEvent(self, event):
         """鼠标点击事件处理"""

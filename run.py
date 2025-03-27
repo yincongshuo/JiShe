@@ -162,7 +162,7 @@ class SplashScreen(QWidget):
         layout.addWidget(self.loading_label)
         
         # 版本信息
-        self.version_label = QLabel('版本 1.0.0')
+        self.version_label = QLabel('版本 2.0.0')
         self.version_label.setStyleSheet("""
             QLabel {
                 color: #95A5A6;
